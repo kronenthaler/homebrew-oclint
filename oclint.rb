@@ -3,7 +3,7 @@ class Oclint < Formula
   homepage "http://oclint.org"
   version '0.15'
   sha256 'e15960665e82a894b662f5ed5ddf279ed6875e00932ce0e9771d779fd61a2ad2'
-  url "https://github.com/kronenthaler/homebrew-oclint/blob/master/oclint-0.15.tar.gz?raw=true"
+  url "https://github.com/kronenthaler/homebrew-oclint/releases/download/#{version}/oclint-#{version}.tar.gz"
   head "https://github.com/kronenthaler/homebrew-oclint.git"
 
   def install
