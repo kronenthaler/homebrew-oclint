@@ -3,6 +3,7 @@
 ## To install
 
 ```
-brew install kronenthaler/homebrew-oclint/oclint
+brew tap kronenthaler/homebrew-oclint
+brew install /oclint
 ```
 
