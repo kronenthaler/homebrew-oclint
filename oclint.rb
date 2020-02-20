@@ -2,7 +2,7 @@ class Oclint < Formula
   desc "OCLint static code analysis tool for C, C++, and Objective-C"
   homepage "http://oclint.org"
   version '0.15'
-  sha256 'e15960665e82a894b662f5ed5ddf279ed6875e00932ce0e9771d779fd61a2ad2'
+  sha256 'd56e64fc966b3373a785be807cb53f86eb1d8890e5728ebce3ba389c39fc436b'
   url "https://github.com/kronenthaler/homebrew-oclint/releases/download/#{version}/oclint-#{version}.tar.gz"
   head "https://github.com/kronenthaler/homebrew-oclint.git"
 
